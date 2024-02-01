@@ -1,0 +1,11 @@
+[
+   {
+      "id_project": 46,
+      "name": "Милый Дом",
+      "remark": "Тестовый проект для управления домашней сетью",
+      "dset": "202-12-06 19:4:36.900213",
+      "cpname": "Контрольная панель \"Милый Дом\"",
+      "config": "{\"outputs\":[{\"device\":\"EshkafController\",\"name\":\"Вход 1\",\"label\":\"Вход 1\",\"type\":\"ControlBlock\",\"controls\":[{\"type\":\"Toogle\",\"options\":[{\"command\":46,\"state\":0,\"label\":\"Вход 1 выключен\"},{\"command\":47,\"state\":1,\"label\":\"Вход 1 включен\"}]}]},{\"device\":\"EshkafController\",\"name\":\"Вход 2\",\"label\":\"Вход 2\",\"type\":\"ControlBlock\",\"controls\":[{\"type\":\"Toogle\",\"options\":[{\"command\":512,\"state\":0,\"label\":\"Вход 2 выключен\"},{\"command\":513,\"state\":1,\"label\":\"Вход 2 включен\"}]}]},{\"device\":\"EshkafController\",\"name\":\"Вход 3\",\"label\":\"Вход 3\",\"type\":\"ControlBlock\",\"controls\":[{\"type\":\"Toogle\",\"options\":[{\"command\":768,\"state\":0,\"label\":\"Вход 3 выключен\"},{\"command\":769,\"state\":1,\"label\":\"Вход 3 включен\"}]}]},{\"device\":\"EshkafController\",\"name\":\"Вход 4\",\"label\":\"Вход 4\",\"type\":\"ControlBlock\",\"controls\":[{\"type\":\"Toogle\",\"options\":[{\"command\":103,\"state\":0,\"label\":\"Вход 4 выключен\"},{\"command\":104,\"state\":1,\"label\":\"Вход 4 включен\"}]}]}]}",
+      "path": null
+   }
+]

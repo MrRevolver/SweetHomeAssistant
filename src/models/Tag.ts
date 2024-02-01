@@ -1,0 +1,15 @@
+export type TTag = {
+   error_text?: string,
+   id_tag     : number,
+   id_device  : number,
+   id_tagtype : number,
+   id         : number,
+   name       : string,
+   remark     : string,
+   sign       : string | null,
+   sorting    : number,
+   ischart    : number,
+   istable    : number,
+   id_state   : number,
+   dset       : string,
+};

@@ -1,0 +1,36 @@
+{
+   "code": 0,
+   "message": "Состояние устройства получено успешно",
+   "data": [
+      {
+         "alias": "HomeController",
+         "name": "Вход 1",
+         "value": 0
+      },
+      {
+         "alias": "HomeController",
+         "name": "Вход 2",
+         "value": 1
+      },
+      {
+         "alias": "HomeController",
+         "name": "Вход 3",
+         "value": 1
+      },
+      {
+         "alias": "HomeController",
+         "name": "Вход 4",
+         "value": 1
+      },
+      {
+         "alias": "HomeController",
+         "name": "Температура",
+         "value": 36097
+      },
+      {
+         "alias": "HomeController",
+         "name": "Влажность",
+         "value": 19135
+      }
+   ]
+}

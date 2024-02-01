@@ -1,0 +1,25 @@
+{
+   "id_device": 248,
+   "settings": {
+      "Schedule": [
+         {
+            "Id": 3547,
+            "Action": 0,
+            "Interval": 0,
+            "IsEnable": true,
+            "DStart": "2024-01-30T17:29",
+            "Command": 47
+         },
+         {
+            "Id": 8005,
+            "Action": 0,
+            "Interval": 0,
+            "IsEnable": true,
+            "DStart": "2024-01-31T16:18",
+            "Command": 46
+         }
+      ]
+   },
+   "dsettings": "2024-01-31 16:19:00.838312",
+   "ddeliveredsettings": "2024-01-31 16:19:00.892616"
+}
